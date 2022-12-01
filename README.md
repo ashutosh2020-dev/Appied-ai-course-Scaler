@@ -1,5 +1,6 @@
 # Appied-ai-course-Scaler
-<a href="https://www.appliedaicourse.com/course/11/Applied-Machine-learning-course">Applied ai course</a> (merged with scaler) is a online platform to learn about data science. In this repository include assignments ,projects, coding etc. done in the course
+<a href="https://www.appliedaicourse.com/course/11/Applied-Machine-learning-course">Applied ai course</a> (merged with scaler) is a online platform to learn about data science. <br><br>
+this repository include assignments, projects, coding etc. done in the course
 
 <!--
 
